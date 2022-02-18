@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#virien84&theme=dracula&hide_border=true)
 
 # Connect with me
-<a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-email-notifications-justicon-lineal-color-justicon.png"/></a>
+<a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
 
 # Languajes
 
@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Virien84&theme=highcontrast&hide_border=true" alt="#Virien84" />
 </p>
 
-<!-- <a href="https://icons8.com/icon/PmVIP6qPDgZv/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/bqI4gOgp4z1f/email-open">Email Open icon by Icons8</a> -->
 
 
 
