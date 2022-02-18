@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 # Experience
 
 # replace username with your own or change theme
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
 <!-- <a href="https://icons8.com/icon/bqI4gOgp4z1f/email-open">Email Open icon by Icons8</a> -->
