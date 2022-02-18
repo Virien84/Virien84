@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
 
 # Technologies & Languajes
-<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/96/000000/mongodb.png"/><img src="https://img.icons8.com/color/96/000000/sql-database-administrators-group.png"/><img src="https://img.icons8.com/color/96/000000/git.png"/><img src="https://logodix.com/logo/2100260.png"/>
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML"/><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="Javascript"/><img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB"/><img src="https://img.icons8.com/color/96/000000/sql-database-administrators-group.png" alt="SQL"/><img src="https://img.icons8.com/color/96/000000/git.png" alt="GIT"/><img src="https://logodix.com/logo/2100260.png" width="96" height="96" alt="Cobol"/>
 
 # Learning right now
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/react-native.png"/>
