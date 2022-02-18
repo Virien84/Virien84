@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
   <td valign="center">
     <ul>
-      <li>I am currently studying on my own current technologies such as React, and other more veteran ones such as Java. All focused on web development. </li>
+      <li>I am currently studying on my own React and Java. All focused on web development. Mi goal is to reach as much as job market as possible.</li>
       <li>My goal is to get a job in web development that allows me to continue learning and exploring new technologies, as well as the opportunity to stay up to date.</li>
       <li>Despite being focused on web development, I am interested in all kinds of technology, both current and vintage, software and hardware.</li>
       <li>As professionally, personally I enjoy creative things, such as reading or music, which I can consider hobbies.</li>
