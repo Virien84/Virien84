@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm David
 
 # replace contents according to you.
 <table>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#virien84&theme=dracula&hide_border=true)
 
 #Connect with me
-
+<a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229" target="_self"><img src="https://camo.githubusercontent.com/0e8a71073676eb4940e1b8a0cf142ab06bd4874a4fefbc8aa462c0b663e76932/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f3030303030302f747769747465722d2d76322e706e67" data-canonical-src="https://img.icons8.com/color/35/000000/twitter--v2.png" style="max-width: 100%;"></a>
 #Languajes
 
 #Learning right now
