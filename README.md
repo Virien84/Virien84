@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#virien84&theme=dracula&hide_border=true)
 
 # Connect with me
-<a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/></a>
+<a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v5.png"/></a><a href="mailto:name@email.com"/Link text</a/
 
 # Languajes
 
