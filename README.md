@@ -25,7 +25,6 @@ Here are some ideas to get you started:
       <li>I love to create different types of **contents**</li>
     </ul>
 <td >
-    # I love to learn.
     <a href="https://app.daily.dev/Virien"><img src="https://api.daily.dev/devcards/5123ade8c52b4820a6526b33cabfb830.png?r=vj3" width="400" alt="David Anton Alvarez's Dev Card"/></a>
   </td>
 
