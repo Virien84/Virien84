@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
 
 # Technologies & Languajes
-<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/96/000000/mongodb.png"/><img src="https://img.icons8.com/color/96/000000/sql-database-administrators-group.png"/>
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/96/000000/css3.png"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/96/000000/mongodb.png"/><img src="https://img.icons8.com/color/96/000000/sql-database-administrators-group.png"/><img src="https://img.icons8.com/color/96/000000/git.png"/><img src="https://logodix.com/logo/2100260.png"/>
 
 # Learning right now
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/react-native.png"/>
@@ -54,6 +54,13 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
 <!-- <a href="https://icons8.com/icon/bqI4gOgp4z1f/email-open">Email Open icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/55639/sql-database-administrators-group">SQL Database Administrators Group icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/13679/java">Java icon by Icons8</a> -->
+<!-- <a href="https://icons8.com/icon/20906/git">Git icon by Icons8</a> -->
 
 
 
