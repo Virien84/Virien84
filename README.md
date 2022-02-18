@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-    🌱 I am currently learning **Java** and also interested in **Web Development**.
-    🎯 My Goal is to Contribute to as many **open source project** as possible.
-    ✨ I love to create different types of **contents**.
+    <ul>
+      <li>I am currently pursuing my **Bachelor's in Computer Science Engineering</li>
+      <li>I am currently learning **Java** and also interested in </li>
+      <li>My Goal is to Contribute to as many **open source project** as possible.</li>
+      <li>I love to create different types of **contents**</li>
+    </ul>
 <td >
-    # I love to learn things every day.
+    # I love to learn.
     <a href="https://app.daily.dev/Virien"><img src="https://api.daily.dev/devcards/5123ade8c52b4820a6526b33cabfb830.png?r=vj3" width="400" alt="David Anton Alvarez's Dev Card"/></a>
   </td>
 
