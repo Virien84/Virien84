@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm David
 
-# replace contents according to you.
+# About Me.
 <table>
 <tr>
   <td valign="center">
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
     🎯 My Goal is to Contribute to as many **open source project** as possible.
     ✨ I love to create different types of **contents**.
 <td >
-# this is my daily.dev card, you can edit this accordingly
     <a href="https://app.daily.dev/Virien"><img src="https://api.daily.dev/devcards/5123ade8c52b4820a6526b33cabfb830.png?r=vj3" width="400" alt="David Anton Alvarez's Dev Card"/></a>
   </td>
 
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 </table>
 
 # replace username with your own or change theme
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#virien84&theme=dracula&hide_border=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Virien84)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Connect with me
 <a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML"/><img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS"/><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="Javascript"/><img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB"/><img src="https://img.icons8.com/color/96/000000/sql-database-administrators-group.png" alt="SQL"/><img src="https://img.icons8.com/color/96/000000/git.png" alt="GIT"/><img src="https://logodix.com/logo/2100260.png" width="96" height="96" alt="Cobol"/>
 
 # Learning right now
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/96/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java"/><img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React"/>
 
 # Experience
 
