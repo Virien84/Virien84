@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **Virien84/Virien84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
