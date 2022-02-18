@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 # replace username with your own or change theme
 ## Stats📈
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84)](https://github.com/anuraghazra/github-readme-stats)
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Virien84&theme=highcontrast&hide_border=true" alt="#Virien84" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
