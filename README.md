@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java"/><img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React"/>
 
 # Stuff I use most
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Virien84&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Virien84&theme=react-dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
