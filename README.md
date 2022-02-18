@@ -50,5 +50,7 @@ Here are some ideas to get you started:
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Virien84&theme=highcontrast&hide_border=true" alt="#Virien84" />
 </p>
 
+<!-- <a href="https://icons8.com/icon/PmVIP6qPDgZv/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
+
 
 
