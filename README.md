@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-# replace username with your own or change theme
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Virien84&theme=dracula&hide_border=true)
+# Experience
+<p>I have been working as a computer programmer for more than 10 years, mainly in the financial and metalworking sectors. Now I am looking for a change of scenery, betting on web development and self-taught training. </p>
 
 # Connect with me
 <a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 # Learning right now
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java"/><img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React"/>
 
-# Experience
-
 # Stuff I use most
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Virien84&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://icons8.com/icon/qNUNvR9aEWql/linkedin-circled">LinkedIn Circled icon by Icons8</a> -->
