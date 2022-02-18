@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 # replace username with your own or change theme
 ## Stats📈
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84)](https://github.com/anuraghazra/github-readme-stats) 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Virien84&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Virien84" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virien84)](https://github.com/anuraghazra/github-readme-stats)
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Virien84&theme=highcontrast&hide_border=true" alt="#Virien84" />
 </p>
 
