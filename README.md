@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <tr>
   <td valign="center">
     <ul>
-      <li>I am currently pursuing my **Bachelor's in Computer Science Engineering</li>
-      <li>I am currently learning **Java** and also interested in </li>
-      <li>My Goal is to Contribute to as many **open source project** as possible.</li>
-      <li>I love to create different types of **contents**</li>
+      <li>I am currently studying on my own current technologies such as React, and other more veteran ones such as Java. All focused on web development. </li>
+      <li>My goal is to get a job in web development that allows me to continue learning and exploring new technologies, as well as the opportunity to stay up to date.</li>
+      <li>Despite being focused on web development, I am interested in all kinds of technology, both current and vintage, software and hardware.</li>
+      <li>As professionally, personally I enjoy creative things, such as reading or music, which I can consider hobbies.</li>
     </ul>
 <td >
     <a href="https://app.daily.dev/Virien"><img src="https://api.daily.dev/devcards/5123ade8c52b4820a6526b33cabfb830.png?r=vj3" width="400" alt="David Anton Alvarez's Dev Card"/></a>
