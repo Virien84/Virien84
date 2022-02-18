@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # Connect with me
 <a href="http://www.linkedin.com/in/david-antón-álvarez-aa17a9229"><img src="https://img.icons8.com/fluency/96/000000/linkedin-circled.png"/></a><a href="mailto:david.anton.dev@gmail.com.com"><img src="https://img.icons8.com/fluency/96/000000/email-open.png"/></a>
 
-# Languajes
+# Technologies & Languajes
 
 # Learning right now
 
